@@ -18,11 +18,6 @@ Members :
 ## Introduction
 This organization is a collection of projects that are created by the Navudev team members.
 
-## Projects
-
-- [Navudev-Website](https://github.com/Navudev/Navudev-Website)
-- [Navudev-Website](https://github.com/Navudev/Navudev-Website)
-
 ## Rules
 
 1. **Payment**: 
