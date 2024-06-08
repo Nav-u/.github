@@ -3,7 +3,8 @@
 Owner : 
 - Navu
 
-Key Persons :
+Developers :
+- n0tavaliduser
 - Devsoup
 - War-X
 - Jowntrup
